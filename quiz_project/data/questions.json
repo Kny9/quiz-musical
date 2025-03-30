@@ -1,0 +1,38 @@
+{
+    "Rap": [
+        {
+            "question": "Quel rappeur à fait 3 fois PONA NINI a son concert ?",
+            "choix": ["SDM", "Niska", "Tiakola", "Ninho"],
+            "reponse": "Tiakola"
+        },
+        {
+            "question": "Quel est l'labum le plus streamer de Niska ?",
+            "choix": ["Le monde est méchant", "Commando", "Charo Life", "GOAT"],
+            "reponse": "Commando"
+        }
+    ],
+    "RnB": [
+        {
+            "question": "Avec quel artiste Dadju a collaboré pour son album Héritage ?",
+            "choix": ["Gims", "Damso", "Jul", "Tayc"],
+            "reponse": "Tayc"
+        },
+        {
+            "question": "Combien de fois Beyoncé repete le mot halo dans sa musique ?",
+            "choix": ["32", "37", "41", "28"],
+            "reponse": "32"
+        }
+    ],
+    "Zouk": [
+        {
+            "question": "Qui a interpreté le son Touné en 2014?",
+            "choix": ["Fanny J", "Mik L", "Lorenz", "Nesly"],
+            "reponse": "Lorenz"
+        },
+        {
+            "question": "Combien de titre on interprete le duo Mik L et Nesly ?",
+            "choix": ["1", "2", "3", "4"],
+            "reponse": "3"
+        }
+    ]
+}
