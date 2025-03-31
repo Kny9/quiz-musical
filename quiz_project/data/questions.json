@@ -9,6 +9,16 @@
             "question": "Quel est l'labum le plus streamer de Niska ?",
             "choix": ["Le monde est méchant", "Commando", "Charo Life", "GOAT"],
             "reponse": "Commando"
+        },
+        {
+            "question": "Quel rappeur est surnommé 'Le Duc de Boulogne' ?",
+            "choix": ["Rohff", "Booba", "Ninho", "Kaaris"],
+            "reponse": "Booba"
+        },
+        {
+            "question": "Quel rappeur a fait le son 'Monaco' ?",
+            "choix": ["Hamza", "Rnboi", "Leto", "Guy2Bezbar"],
+            "reponse": "Guy2Bezbar"
         }
     ],
     "RnB": [
@@ -21,6 +31,16 @@
             "question": "Combien de fois Beyoncé repete le mot halo dans sa musique ?",
             "choix": ["32", "37", "41", "28"],
             "reponse": "32"
+        },
+        {
+            "question": " Quel est le surnom de Chris Brown?",
+            "choix": ["Breezy", "Maroon 5", "Chris et alicia", "Oe mon bro"],
+            "reponse": "32"
+        },
+        {
+            "question": "Quelle chanteuse a popularisé le hit 'If I Ain't Got You' en 2003 ?",
+            "choix": ["Beyoncé", "Alicia Keys", "Mariah Carey", "Ciara"],
+            "reponse": "Alicia Keys"
         }
     ],
     "Zouk": [
@@ -33,6 +53,16 @@
             "question": "Combien de titre on interprete le duo Mik L et Nesly ?",
             "choix": ["1", "2", "3", "4"],
             "reponse": "3"
+        },
+        {
+            "question": "Quel son Fanny J a t-elle interprété au Flammes 2024?",
+            "choix": ["Palé", "Ancré a ton port", "Dis-moi", "Je l'aime"],
+            "reponse": "Lorenz"
+        },
+        {
+            "question": "Quelle chanteuse est connue pour le titre 'Si Demain' en duo avec Patrick Saint-Éloi ?",
+            "choix": ["Jocelyne Béroard", "Edith Lefel", "Lynnsha", "Nesly"],
+            "reponse": "Jocelyne Béroard"
         }
     ]
 }
